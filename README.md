@@ -25,12 +25,12 @@
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BradleyVerrinder&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyVerrinder&layout=compact&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BradleyVerrinder&theme=darkhub" width="80%"/>
 </p>
 
 ---
